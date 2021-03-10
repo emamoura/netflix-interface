@@ -1,6 +1,6 @@
 # Netflix Interface
 
-Netflix interface build with HTML and CSS, it was made to practice front
+Netflix interface build with HTML and CSS, it was made to practice frontend
 
 ## Getting Started
 
